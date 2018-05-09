@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'aws-sdk-v1'
+  s.name = 'aws-sdk-v1-reinteractive'
   s.version = File.read(File.expand_path('../VERSION', __FILE__)).strip
   s.summary = 'AWS SDK for Ruby V1'
   s.description = <<-DESCRIPTION.strip
